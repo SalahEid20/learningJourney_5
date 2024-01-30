@@ -1,0 +1,6 @@
+{
+    "programming": ["php", "javascript", "go", "scala", "fortran", "r", "mysql", "python", "c++", "c#", "rust"],
+    "movies": ["Prestige", "Inception", "Parasite", "Interstellar", "whiplash", "Memento", "Coco", "Up", "JumanJi", "Avengers"],
+    "people": ["Albert Einestein", "Hitchcock", "Alexander", "Cleopatra", "Mhatma Ghandi", "Abo Treka", "Elzero", "Brad Pit"],
+    "countries": ["Syria", "Palestine", "Yemen", "Egypt", "Bahrain", "Qatar", "Italy", "Algeria", "USA", "Canada", "Russia"]
+}
